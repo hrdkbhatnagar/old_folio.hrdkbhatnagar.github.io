@@ -2,10 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 ---
+##### **Neuromatch Academy 2021, Deep Learning**
+*August 2021* 
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+The course covers Deep Learning, including theory and techniques of deep learning with an emphasis on neuroscience. The students also work on a small group project. 
 
-Organize your courses by years, topics, or universities, however you like!
+[website](https://academy.neuromatch.io/), [course content](https://deeplearning.neuromatch.io/)
+
+---
+##### **Neuromatch Academy 2021, Computational Neuroscience**
+*July 2021* 
+
+The course covers contemporary computational neuroscience modeling and analysis techniques taught over 3 weeks for over 3000 students working with small group projects. 
+
+[website](https://academy.neuromatch.io/home), [course content](https://compneuro.neuromatch.io/)

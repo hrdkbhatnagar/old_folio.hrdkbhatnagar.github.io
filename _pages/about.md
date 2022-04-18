@@ -23,11 +23,19 @@ Hi! I am Hardik, and currently pursuing double majors in (B.E.) Computer Science
 
 My research interest lies at the intersection of biology and computer science. I'm exploring machine learning, deep learning, computational neuroscience, computational biology and bioinformatics. 
 
-I most recently parcipated at the [Neuromatch Academy](https://www.neuromatchacademy.org/), a summer school on computational neuroscience. I worked on various computational tools and their applications for real-world neuroscience problems. 
+<!-- Thesis at Allen -->
+I'm currently pursuing my master's thesis at the [Allen Institute for Brain Science](https://alleninstitute.org/), Seattle where I'm working on inferring neuronal computations from partially observing its inputs and outputs. 
+
+<!-- Thesis at EPFL -->
+Recently, I worked on my bachelor's thesis at [EPFL, Switzerland](https://www.epfl.ch/) under Prof. Johan Auwerx where I worked on analysing biological timeseries data with machine learning to investigate aging across mice populations. 
+
+<!-- NMA TAs -->
+
+<!-- I most recently parcipated at the [Neuromatch Academy](https://www.neuromatchacademy.org/), a summer school on computational neuroscience. I worked on various computational tools and their applications for real-world neuroscience problems. 
 I also worked on the [Human Connectome Project (HCP)](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) dataset to analyze neural patterns in face and shape recognition in the human brain.
 
-I previously worked at the [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1) as a research intern analyzing protein engineering techniques using machine learning tools. Specifically, I explored directed evolution, a method of selection based on natural evolution to filter specific biophysical properties of the proteins.
+I previously worked at the [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1) as a research intern analyzing protein engineering techniques using machine learning tools. Specifically, I explored directed evolution, a method of selection based on natural evolution to filter specific biophysical properties of the proteins. -->
 
 My CV can be viewed at this [link.](https://drive.google.com/file/d/1qKi7ijSyLCTEvh5KupxlFfB5bYJYf404/view?usp=sharing)
 
-Feel free to get in touch with me at my [email address!
+Feel free to get in touch with me at my [email address!](mailto:hrdk.bhatnagar@gmail.com)
