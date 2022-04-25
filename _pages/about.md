@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-rank: 1 
+order: 1
 # subtitle: <a href='#'>BITS Pilani</a>.
 
 profile:

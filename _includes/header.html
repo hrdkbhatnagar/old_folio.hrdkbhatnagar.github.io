@@ -45,7 +45,11 @@
               {%- endif %}
 
               <!-- Other pages -->
-              {%- assign sorted_pages = site.pages | sort: "title" -%}
+              <!-- Sort by Alphabetical order below: -->
+              <!-- {%- assign sorted_pages = site.pages | sort: "title" -%} -->
+
+              <!-- Sort by "order" attribute below: -->
+              {%- assign sorted_pages = site.pages | sort: "order" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}

@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
+order: 3
 ---
 ##### **Neuromatch Academy 2021, Deep Learning**
 *August 2021* 

@@ -4,7 +4,7 @@ permalink: /experience/
 title: experience
 description: 
 nav: false
-rank: 4
+order: 6
 ---
 
 ##### Neuromatch Academy 

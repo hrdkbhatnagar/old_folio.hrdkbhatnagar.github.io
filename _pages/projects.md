@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: 
 nav: true
-rank: 2
+order: 2
 ---
 ##### **Inferring neuronal computation from partial observations**
 *Feb 2022 - Present* 
