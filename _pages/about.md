@@ -18,16 +18,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Hardik, and currently pursuing double majors in (B.E.) Computer Science and (M.Sc.) Biological Sciences from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}.
+Hi! I am Hardik, I pursued double majors in (B.E.) Computer Science and (M.Sc.) Biological Sciences from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}.
 
 
 My research interest lies at the intersection of biology and computer science. I'm exploring machine learning, deep learning, computational neuroscience, computational biology and bioinformatics. 
 
 <!-- Thesis at Allen -->
-I'm currently pursuing my master's thesis at the [Allen Institute for Brain Science](https://alleninstitute.org/), Seattle where I'm working on inferring neuronal computations from partially observing its inputs and outputs. 
+I most recently pursed my master's thesis at the [Allen Institute for Brain Science](https://alleninstitute.org/), Seattle where I worked on inferring neuronal computations from partially observing its inputs and outputs. 
 
 <!-- Thesis at EPFL -->
-Recently, I worked on my bachelor's thesis at [EPFL, Switzerland](https://www.epfl.ch/) under Prof. Johan Auwerx where I worked on analysing biological timeseries data with machine learning to investigate aging across mice populations. 
+Previously, I worked on my bachelor's thesis at [EPFL, Switzerland](https://www.epfl.ch/) under Prof. Johan Auwerx where I worked on analysing biological timeseries data with machine learning to investigate aging across mice populations. 
 
 <!-- NMA TAs -->
 
