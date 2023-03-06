@@ -23,8 +23,12 @@ Hi! I am Hardik, I pursued double majors in (B.E.) Computer Science and (M.Sc.) 
 
 My research interest lies at the intersection of biology and computer science. I'm exploring machine learning, deep learning, computational neuroscience, computational biology and bioinformatics. 
 
+<!-- RAship in Tuebingen -->
+I'm currently working as a research assistant at the [University of Tübingen](https://uni-tuebingen.de/) under Prof. Andreas Bartels in the Vision and Cognition lab. I'm trying to link visual saliency of stimuli with modulations along the visual processing hierarchy with the help of deep learning. 
+
+
 <!-- Thesis at Allen -->
-I most recently pursed my master's thesis at the [Allen Institute for Brain Science](https://alleninstitute.org/), Seattle where I worked on inferring neuronal computations from partially observing its inputs and outputs. 
+Prior to that, I pursed my master's thesis at the [Allen Institute for Brain Science](https://alleninstitute.org/), Seattle under Prof. Kaspar Podgorski where I worked on inferring neuronal computations from partially observing its inputs and outputs. 
 
 <!-- Thesis at EPFL -->
 Previously, I worked on my bachelor's thesis at [EPFL, Switzerland](https://www.epfl.ch/) under Prof. Johan Auwerx where I worked on analysing biological timeseries data with machine learning to investigate aging across mice populations. 
