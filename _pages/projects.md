@@ -7,45 +7,46 @@ nav: true
 order: 2
 ---
 ##### **Inferring neuronal computation from partial observations**
-*Feb 2022 - Present* 
+*Feb - Aug 2022* 
 
 *Allen Institute of Brain Sciences, Seattle*
 
-I am working under [Prof. Kaspar Podgorski](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/kaspar-podgorski/) where I am exploring ways to infer a neuron’s computations from partial observations of its inputs and outputs. I am looking into simulating neurons as hierarchical linear-nonlinear models under a variety of conditions and inferring the parameters of the simulated neuron using gradient descent methods with PyTorch.
-
+Under [Prof. Kaspar Podgorski](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/kaspar-podgorski/), I investigated methods for inferring a neuron's computations from incomplete observations of its inputs and outputs. Using PyTorch, I simulated neurons as hierarchical linear-nonlinear models under various conditions, and utilized gradient descent methods to infer the parameters of the simulated neuron. This was part of my work for my master's thesis
 
 ---
-##### **Investigating the physiology of aging across mouse population**
+##### **Investigating the physiology of aging across genetically diverse mouse population**
 *Aug 2021 - Jan 2022* 
 
 *EPFL, Switzerland*
 
-I worked under [Prof. Johan Auwerx](https://people.epfl.ch/johan.auwerx?lang=en) and worked on analysing biological timeseries data with machine learning and computational modelling. I explored ways to analyze timeseries across genetically diverse mice populations and looked into methods to create a health index to summarize aging properties across the population.
+
+Working under [Prof. Johan Auwerx](https://people.epfl.ch/johan.auwerx?lang=en), I analyzed biological time-series data with machine learning and computational modeling. I developed a health index to summarize aging properties across genetically diverse mouse populations, and explored methods for analyzing time-series data across these populations.
 
 ---
-##### **Automating cloud instance health checks and maintenance**
-*May 2021 - July 2021* 
+##### **Cloud Infrastructure Automation for Health Checks and Maintenance
+**
+*May - July 2021* 
 
 *ServiceNow, Hyderabad, India*
 
-I worked as a software development intern in the cloud computing and development operations (DevOps) team on a proprietary cloud infrastructure platform for monitoring the health of cloud instances and load balancing.
+As a software development intern in the cloud computing and development operations (DevOps) team, I worked on a proprietary cloud infrastructure platform for monitoring the health of cloud instances and load balancing. I developed tools for automating cloud instance health checks and maintenance.
 
 ---
-##### **Modelling biological networks using formal language**
-*Aug 2020 - Dec 2020* 
+##### **Formal Language Modeling of Biological Networks**
+*Aug - Dec 2020* 
 
 *Department of Computer Science, BITS Pilani*
 
-I worked under [Prof. Rajesh Kumar](https://www.bits-pilani.ac.in/pilani/rajeshk/profile) where I explored ways to analyze biological networks such as gene regulatory networks (GRNs), with the help of formal language and automata theory. Specifically, we worked on the fault analysis of GRNs to understand the effect of induced drugs and modelling stochasticity in GRNs using probabilistic boolean networks. 
+Working under [Prof. Rajesh Kumar](https://www.bits-pilani.ac.in/pilani/rajeshk/profile), I analyzed biological networks such as gene regulatory networks (GRNs) using formal language and automata theory. I focused on fault analysis of GRNs to understand the effects of induced drugs, and modeled stochasticity in GRNs using probabilistic boolean networks.
 
 ---
 
-##### **Prediction of coronary heart disease with data mining and machine learning**
-*Aug 2020 - Dec 2020* 
+##### **Machine Learning for Coronary Heart Disease Prediction**
+*Aug - Dec 2020* 
 
 *Department of Biological Sciences, BITS Pilani*
 
-I worked under [Prof. Syamantak Majumder](https://www.bits-pilani.ac.in/pilani/syamantakmajumder/profile) to understand the biological paramaters influencing heart diseases with machine learning, using data from hospital patients. I worked on comparing various machine learning and deep learning models for their best performance on the task.
+Working under [Prof. Syamantak Majumder](https://www.bits-pilani.ac.in/pilani/syamantakmajumder/profile), I used machine learning and deep learning models to understand the biological parameters influencing heart diseases. I compared various models for their performance in predicting coronary heart disease using data from hospital patients.
 
 ---
 
