@@ -6,6 +6,15 @@ description:
 nav: true
 order: 2
 ---
+
+##### **Linking saliency with modulations along the visual processing hierarchy**
+*Oct 2022 - Present* 
+
+*University of Tübingen, Germany*
+
+As a research assisstant under Prof. Andreas Bartels, my focus is on analyzing a large fMRI dataset (the NSD dataset) to create "brain-derived" deep learning models for activity prediction. I am currently designing saliency metrics for stimuli and identifying correlations with retinotopic activity in visual, parietal, and prefrontal regions of the brain. As part of the project, I am also conducting a comparative analysis of high versus low-level model predictions for spatial modulations in the cortex, with a specific focus on model complexities. 
+
+---
 ##### **Inferring neuronal computation from partial observations**
 *Feb - Aug 2022* 
 
@@ -23,7 +32,7 @@ Under [Prof. Kaspar Podgorski](https://alleninstitute.org/what-we-do/brain-scien
 Working under [Prof. Johan Auwerx](https://people.epfl.ch/johan.auwerx?lang=en), I analyzed biological time-series data with machine learning and computational modeling. I developed a health index to summarize aging properties across genetically diverse mouse populations, and explored methods for analyzing time-series data across these populations.
 
 ---
-##### **Cloud Infrastructure Automation for Health Checks and Maintenance
+##### **Cloud Infrastructure Automation for Health Checks and Maintenance**
 **
 *May - July 2021* 
 
