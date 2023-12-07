@@ -19,19 +19,16 @@ social: false  # includes social icons at the bottom of the page
 ---
 Hi! My name is Hardik, and I am a graduate of BITS Pilani, India, where I pursued a double major in (B.E.) Computer Science and (M.Sc.) Biological Sciences.
 
-My passion lies at the intersection of biology and computer science, specifically in applyng machine learning, deep learning to neuroscience and biology. 
+My passion lies at the intersection of neuroscience and computer science, specifically in applyng deep learning, vision science and language modelling. 
 
-<!-- RAship in Tuebingen -->
-Currently, I am working as a research engineer at the Max Planck Institute for Biological Cybernetics/University of Tübingen, Germany, under the supervision of [Prof. Andreas Bartels](https://scholar.google.com/citations?user=xHA9heEAAAAJ&hl=en). My research focuses on using deep learning to link visual saliency of images and its relation to activity in the visual regions of the brain. 
+Currently I am a research intern at Microsoft Research, India, where I am working with [Dr. Navin Goyal](https://scholar.google.com/citations?hl=en&user=w8WJCnkAAAAJ&view_op=list_works&sortby=pubdate) on reverse engineering and explaining the internal representations of language and vision models with mechanistic interpretability.
 
+For the past year, I was a research engineer at the Max Planck Institute for Biological Cybernetics (University of Tübingen), Germany, under [Prof. Andreas Bartels](https://scholar.google.com/citations?user=xHA9heEAAAAJ&hl=en). I uncovered the role of high-level and low-level image features and their link with neural activity with deep learning modelling. 
 
+I pursued my master's thesis at the Allen Institute for Brain Science, Seattle under [Prof. Kaspar Podgorski](https://scholar.google.com/citations?user=AKKUvgEAAAAJ&hl=en). My research invoved simulating a single neuron as a deep learning model to infer its input-output computations with partial observability of its inputs and outputs.
 
-<!-- Thesis at Allen -->
-Prior to this, I pursued my master's thesis at the Allen Institute for Brain Science in Seattle under [Prof. Kaspar Podgorski](https://scholar.google.com/citations?user=AKKUvgEAAAAJ&hl=en). My research involved modelling neurons with deep learning and inferring their computations by partially observing their inputs and outputs.
+During my bachelor's thesis at EPFL, Switzerland under [Prof. Johan Auwerx](https://scholar.google.com/citations?user=Kf5YXGYAAAAJ&hl=en), I investigated mitochondrial dysfunction associated with aging by modelling timeseries metabolic data with machine learning, and devising a health index for human age related deterioration.
 
-
-<!-- Thesis at EPFL -->
-During my bachelor's thesis at EPFL, Switzerland under [Prof. Johan Auwerx](https://scholar.google.com/citations?user=Kf5YXGYAAAAJ&hl=en), I used machine learning to analyze biological timeseries data and investigate aging across mice populations and devise a health index for human age related deterioration.
 
 
 <!-- NMA TAs -->
